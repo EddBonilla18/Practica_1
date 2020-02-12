@@ -28,9 +28,9 @@ print(name[3].title())
 
 """Mensaje"""
 print(name[0].title(), 'Crack')
-print(name[0].title(), 'Gordo')
-print(name[0].title(), 'Rifle')
-print(name[0].title(), 'Jerry')
+print(name[1].title(), 'Gordo')
+print(name[2].title(), 'Rifle')
+print(name[3].title(), 'Jerry')
 
 """Lista de deseos"""
 Lista_Deseos=['XboxSeries','Playstation5','PokemonReal','Dinero','AmericaJersey','Helado','Papas','Perros','Tacos','Hamburguesas','CocaCola','Pepsi','Sandia','Mango','MiTitulo']
